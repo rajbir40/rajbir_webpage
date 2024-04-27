@@ -72,6 +72,12 @@ nav ul li a:hover {
     font-size: 25px;
 }
 
+
+#Education a{
+    text-decoration: none;
+    color: white;
+}
+
 @media screen and (max-width :728px) {
     nav{
         height:70px;
